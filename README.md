@@ -105,7 +105,7 @@ Create a project to attach the activity in your application
 Assign a customer to the project
 
 ## video3_3
-**Leave Management
+**Leave Management**
 
 Leave management will manage holidays, leave, and other information related to employee time-off.
 
