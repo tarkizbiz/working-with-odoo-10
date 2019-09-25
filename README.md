@@ -4,12 +4,12 @@ Greg Moss
 Videos taken from https://www.packtpub.com/application-development/working-odoo-10-video during Free Weekend access 20-23 September 2019
 
 ## video1_1
-**The Course Overview
+**The Course Overview**
 
 This video gives an overview of the entire course.
 
 ## video1_2
-**Installing the Accounting and Finance Application
+**Installing the Accounting and Finance Application**
 
 The ability to view the current chart of accounts in Odoo.
 
@@ -18,7 +18,7 @@ The ability to view the current chart of accounts in Odoo.
 - Post the transactions on Odoo to your account
 
 ## video1_3
-**The Sales and Accounts Receivable Process
+**The Sales and Accounts Receivable Process**
 
 Learn how to sell an item to a customer and see exactly how that transaction affects the accounting entries in the journal.
 
@@ -27,7 +27,7 @@ Learn how to sell an item to a customer and see exactly how that transaction aff
 - Examine the details of the payment posted by the journal entry
 
 ## video1_4
-**Setting Up Your Own Accounts
+**Setting Up Your Own Accounts**
 
 The ability to modify the chart of accounts or set up a different chart of accounts to match the needs of business.
 
@@ -36,7 +36,7 @@ Examine the available legal reports in Odoo
 Create journal entries
 
 ## video2_1
-**Basic Considerations for an Odoo Administration
+**Basic Considerations for an Odoo Administration**
 
 Learn to focus on getting your Odoo installation backup and run with an acceptable period of time.
 
@@ -45,7 +45,7 @@ Back up your Odoo database
 Restore an Odoo database
 
 ## video2_2
-**Administering Users in Odoo
+**Administering Users in Odoo**
 
 The ability to understand how users and user access rights are managed.
 
@@ -54,7 +54,7 @@ Manage user preferences
 Specify a signature footer for the e-mails sent by the user
 
 ## video2_3
-**Understanding Groups in Odoo
+**Understanding Groups in Odoo**
 
 Learn to see the list of groups that are currently available in your Odoo installation and we will need to turn on the developer settings.
 
@@ -63,7 +63,7 @@ Look at the access rights in Odoo
 Define group rules in Odoo
 
 ## video2_4
-**Internationalization in Odoo
+**Internationalization in Odoo**
 
 The ability to configure the international features you require for your business .
 
@@ -71,7 +71,7 @@ Configure language translation
 Use translation features to customize Odoo for your business
 
 ## video2_5
-**International Currencies
+**International Currencies**
 
 You require planning and more testing during your system configuration.
 
@@ -97,7 +97,7 @@ Add employee personal information
 Manage departments
 
 ## video3_2
-**Timesheets
+**Timesheets**
 
 Timesheet will allow you to track employee time and attendance.
 
