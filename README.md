@@ -1,5 +1,5 @@
-Working with Odoo 10
-Greg Moss
+# Working with Odoo 10
+by Greg Moss
 
 Videos taken from https://www.packtpub.com/application-development/working-odoo-10-video during Free Weekend access 20-23 September 2019
 
